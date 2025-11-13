@@ -59,10 +59,10 @@ AtmoTrack uses **Google Gemini 1.5 Pro** in AI Studio to:
 
 ## How to View or Run
 
-If hosted on GitHub Pages:  
+GitHub Pages:  
 [https://github.com/ESTEEM-GenAI-25/vibecoding-intro-emmamoran123.git] 
 
-If using Google AI Studio:  
+Google AI Studio:  
 [https://aistudio.google.com/apps/drive/1oeKsXjpV9xi3507L1Rvcr5xRIW9Yw4x9?showAssistant=true&resourceKey=&showCode=true]
 
 ---
